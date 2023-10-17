@@ -4,4 +4,4 @@
 .
 ja
 
-## Outro movil corregido ja ja ja
+## Outro movil corregido desde repositorio local ja ja ja
